@@ -597,7 +597,7 @@ Options introduced by smooth-cursor fork:
 
 	Determines how fast the cursor will reach its target position. Cursor
 	coordinates each frame could be expressed with the following formula:
-	`new = old \* (1 - factor) + target \* factor`.
+	'new = old \* (1 - factor) + target \* factor'.
 
 *smooth_motion_spring* = _<float>_
 
